@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"item": "minecraft:arrow"},
+    {"item": "minecraft:tnt"}
+  ],
+  "result": {
+    "id": "capycoinmod:explosive_arrow",
+    "count": 1
+  }
+}

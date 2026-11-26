@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "capycoinmod:item/pochita_spawn_egg"
+  },
+  "overrides": [
+    {
+      "predicate": { "capycoinmod:pochita_dead": 1 },
+      "model": "capycoinmod:item/pochita_bread"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "knockback": {
+    "sounds": ["capycoinmod:knockback"]
+  },
+
+  "knockback_sword_kd": {
+    "sounds": ["capycoinmod:knockback_sword_kd"]
+  },
+
+  "launch_sword_kd": {
+    "sounds": ["capycoinmod:launch_sword_kd"]
+  },
+
+  "launch_boots_jump": {
+    "sounds": [
+      {"name": "minecraft:entity.breeze.wind_burst", "type": "event"}
+    ]
+  },
+
+  "launch_boots_ready": {
+    "sounds": [
+      {"name": "minecraft:entity.breeze.inhale", "type": "event"}
+    ]
+  },
+
+  "lightning_spear_charge": {
+    "sounds": [
+      {"name": "capycoinmod:lightning_spear_charge"}
+    ]
+  },
+
+  "lightning_spear_kd": {
+    "sounds": [
+      {
+        "name": "capycoinmod:lightning_spear_kd"
+      }
+    ]
+  },
+
+  "bomb_helmet_fuse": {
+    "sounds": [
+      { "name": "capycoinmod:bomb_helmet_fuse", "stream": true }
+    ]
+  },
+
+  "pochita_woof": {
+    "sounds": [
+      { "name": "capycoinmod:pochita_woof", "stream": true }
+    ]
+  },
+
+  "pochita_growl": {
+    "sounds": [
+      { "name": "capycoinmod:pochita_growl", "stream": true }
+    ]
+  }
+}

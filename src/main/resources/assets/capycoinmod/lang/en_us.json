@@ -1,0 +1,23 @@
+{
+  "itemGroup.examplemod": "Example Mod Tab",
+  "block.examplemod.example_block": "Example Block",
+  "item.capycoinmod.capycoin": "Capycoin",
+  "item.capycoinmod.knockback_sword": "Supersonic Sword",
+  "item.capycoinmod.launch_sword": "Mass Reducer",
+  "item.capycoinmod.explosive_arrow": "Explosive Arrow",
+  "item.capycoinmod.lightning_bow": "Zeus's Bow",
+  "item.capycoinmod.launch_boots": "Breeze Boots",
+  "item.capycoinmod.lightning_spear": "Reze's Spear",
+  "item.capycoinmod.bomb_helmet": "Helm of Mercy",
+  "item.capycoinmod.pochita_egg": "Spawn Pochita",
+  "entity.capycoinmod.pochita": "Pochita",
+  "message.capycoinmod.pochita_already_spawned": "Почита уже был призван",
+
+  "examplemod.configuration.title": "Example Mod Configs",
+  "examplemod.configuration.section.examplemod.common.toml": "Example Mod Configs",
+  "examplemod.configuration.section.examplemod.common.toml.title": "Example Mod Configs",
+  "examplemod.configuration.items": "Item List",
+  "examplemod.configuration.logDirtBlock": "Log Dirt Block",
+  "examplemod.configuration.magicNumberIntroduction": "Magic Number Text",
+  "examplemod.configuration.magicNumber": "Magic Number",
+}
